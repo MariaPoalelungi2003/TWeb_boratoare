@@ -1,24 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="14725084-e8d0-46bc-a6d6-6f37880df084" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TWeb_laboratoare.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/.idea/lab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/.idea/lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TWeb_boratoare.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="14725084-e8d0-46bc-a6d6-6f37880df084" name="Changes" comment="lab2">
+      <change afterPath="$PROJECT_DIR$/.idea/lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_4/src/interfaces.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/src/logo12.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/untitled/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +44,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab_1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,10 +67,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "laboratorul2",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "lab__2",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/UTM/TWeb/TWeb_laboratoare/lab2",
+    "last_opened_file_path": "C:/Users/user/Desktop/UTM/TWeb/TWeb_laboratoare",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\user\\Desktop\\UTM\\TWeb\\TWeb_laboratoare\\lab5\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,10 +98,28 @@
       <workItem from="1711187445151" duration="14000" />
       <workItem from="1711196320702" duration="5000" />
       <workItem from="1711615923266" duration="188000" />
+      <workItem from="1711616158331" duration="263000" />
+      <workItem from="1711616481016" duration="360000" />
+      <workItem from="1712468230552" duration="160000" />
+      <workItem from="1712811541151" duration="413000" />
+      <workItem from="1712813196337" duration="1343000" />
     </task>
+    <task id="LOCAL-00001" summary="lab2">
+      <option name="closed" value="true" />
+      <created>1711616353812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711616353812</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
   </component>
 </project>
